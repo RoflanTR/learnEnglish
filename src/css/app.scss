@@ -1,0 +1,11 @@
+// app global css in SCSS form
+@font-face {
+  font-family: 'Restrike'; /* Название шрифта */
+  src: url('../assets/fonts/Restrike.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
